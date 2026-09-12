@@ -2,18 +2,11 @@
 
 Uma pagina web simples e responsiva para apresentar uma receita de cupcake de cafe com chantilly.
 
-![Preview da pagina de receita](./images/main-image.png)
+![Preview da pagina de receita](./images/previa-do-site.png)
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido como uma pratica de HTML e CSS, com foco em uma apresentacao clara da receita, seus ingredientes e o modo de preparo.
-
-A receita inclui:
-
-- Cupcake de cafe com chantilly
-- Tempo de preparo: 1h10
-- Rendimento: 12 porcoes
-- Dificuldade: facil
+Este projeto foi desenvolvido como um exercício de HTML e CSS pela rocketseat, com foco em uma apresentacao clara da receita, seus ingredientes e o modo de preparo.
 
 ## Tecnologias
 
@@ -46,6 +39,7 @@ pagina-de-receita/
 ├── images/
 │   ├── bg-image.png
 │   └── main-image.png
+|   └── previa-do-site.png
 ├── styles/
 │   └── styles.css
 ├── index.html
